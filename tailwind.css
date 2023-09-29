@@ -1,0 +1,43 @@
+/* tailwind.css */
+/* Gaya Kustom dengan Warna Ungu, Putih, dan Hitam */
+
+/* Gaya latar belakang badan */
+body {
+  background-color: #f7fafc; /* Warna putih abu-abu */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Gaya elemen dengan class "container" */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Gaya judul halaman */
+h1 {
+  font-size: 2rem;
+  color: #6b46c1; /* Warna ungu */
+}
+
+/* Gaya teks konten */
+p {
+  font-size: 1rem;
+  color: #333; /* Warna hitam */
+}
+
+/* Gaya tombol */
+.btn {
+  background-color: #6b46c1; /* Warna ungu */
+  color: #fff; /* Warna putih */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Gaya tombol saat hover */
+.btn:hover {
+  background-color: #5a32a3; /* Warna ungu yang sedikit lebih gelap */
+}
